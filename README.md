@@ -1,1 +1,1 @@
-# StepikSQL
+# Homeworks from Stepik SQL course
